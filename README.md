@@ -146,8 +146,8 @@
 </ul>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="367px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="320px"/>
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadtabbaby" alt="mohammadtabbaby"/></a> 

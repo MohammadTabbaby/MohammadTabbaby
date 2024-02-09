@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 My name is Muhammad and I'm Full-Stack Web Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadtabbaby&label=Profile%20views&color=0e55b6&style=flat" alt="mohammadtabbaby" /> </p>
 
-- 🔭 I’m currently working on ** My Graduation Project "EduScheduler: University Class Scheduling with Student Attendance Application" **
+- 🔭 I’m currently working on **My Graduation Project "EduScheduler: University Class Scheduling with Student Attendance Application"**
 
-- 🌱 I’m currently studying **DevOps And Cloud Computing at ISET Tozeur**
+- 🌱 I’m currently studying **DevOps And Cloud Computing at <a href="https://isett.rnu.tn/">ISET Tozeur</a>**
 
 - 👨‍💻 All of my projects are available down below
 
 - 📝 I often write articles on [https://dev.to/mohammadtb](https://dev.to/mohammadtb)
 
-- 💬 Ask me about ** Angular, Django, SpringBoot or anything from the "Languages and Tools" section below**
+- 💬 Ask me about **Angular, Django, SpringBoot or anything from the "Languages and Tools" section below**
 
 - 📫 How to reach me **mohammadtabbaby@gmail.com / +21699145392**
 
@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <ul>
     <li>
         Programming Languages
@@ -139,21 +140,20 @@
     <li>
         Other
     </li>
-    &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
     &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a> 
-
 </ul>
-
+</p>
 <p>
     &nbsp;
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" />
 </p>
 
-<p align="right"> 
+<p align="left"> 
     &nbsp;
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadtabbaby" alt="mohammadtabbaby" /></a> 
 </p>

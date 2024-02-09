@@ -144,11 +144,11 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
     &nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a> 
 </ul>
-</p>
+</p>&nbsp;
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="320px"/>
-</p>
+</p>&nbsp;
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadtabbaby" alt="mohammadtabbaby"/></a> 
 </p>

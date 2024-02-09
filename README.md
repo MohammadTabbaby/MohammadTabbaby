@@ -144,12 +144,12 @@
     &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a> 
 </ul>
 </p>
-<p>
+<p class="rightone">
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" width="329"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" width="329" height="195px"/>
 </p>
 
-<p>
+<p class="leftone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="329" height="195px"/>
 </p>
 
@@ -158,3 +158,15 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadtabbaby" alt="mohammadtabbaby"/></a> 
 </p>
 
+<style>
+    .lefttone{
+        text-align: left;
+        align-items: left;
+        position: absolute;
+    }
+    .rightone{
+        text-align: right;
+        align-items: left;
+        position: absolute;
+    }
+</style>

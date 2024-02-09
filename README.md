@@ -146,11 +146,11 @@
 </p>
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" width="329"/>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" height="195px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="329" height="195px"/>
 </p>
 
 <p align="center"> 

@@ -1,17 +1,19 @@
-&nbsp;&nbsp;<h1 align="center">Hi 👋 My name is Muhammad and I'm Full-Stack Web Developer</h1>&nbsp;&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadtabbaby&label=Profile%20views&color=0e55b6&style=flat" alt="mohammadtabbaby" /> </p>&nbsp;&nbsp;
+<h1 align="center">Hey there, Visitor! 👋 My name is Muhammad, and I'm a Certified Full-Stack Web Developer / DevOps & Cloud Engineer.</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammadtabbaby&label=Profile%20views&color=0e55b6&style=flat" alt="mohammadtabbaby" />
+</p>
 
-- 🔭 I’m currently working on **My Graduation Project "EduScheduler: University Class Scheduling with Student Attendance Application"**
+- 🔭 I’m currently working on various DevOps practices and other interesting projects that I find fun to explore.
 
-- 🌱 I’m currently studying **DevOps And Cloud Computing at <a href="https://isett.rnu.tn/">ISET Tozeur</a>**
+- 🌱 I'm currently working as a freelancer and seeking more opportunities.
 
-- 👨‍💻 All of my projects are available down below
+- 👨‍💻 All of my projects are available below.
 
-- 📝 I often write articles on [https://dev.to/mohammadtb](https://dev.to/mohammadtb)
+- 📝 I often write or share interesting content on [dev.to](https://dev.to/mohammadtb) and on my [LinkedIn profile](https://www.linkedin.com/in/mohamed-tababi-6456b92a8).
 
-- 💬 Ask me about **Angular, Django, SpringBoot or anything from the "Languages and Tools" section below**
+- 💬 If you have any questions about **Angular, Django, Spring Boot, or anything from the "Languages and Tools" section below,** feel free to ask me. Helping someone out will definitely make my day! :)
 
-- 📫 How to reach me **mohammadtabbaby@gmail.com / +21699145392**
+- 📫 If it's urgent, you can contact me via email at **mohammadtabbaby@gmail.com** or by phone at **+216 99 145 392.**
 
 &nbsp;&nbsp;
 

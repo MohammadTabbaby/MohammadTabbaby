@@ -11,8 +11,6 @@
 
 - 📝 I often write or share interesting content on [dev.to](https://dev.to/mohammadtb) and on my [LinkedIn profile](https://www.linkedin.com/in/mohamed-tababi-6456b92a8).
 
-- 💬 If you have any questions about **Angular, Django, Spring Boot, or anything from the "Languages and Tools" section below,** feel free to ask me. Helping someone out will definitely make my day! :)
-
 - 📫 If it's urgent, you can contact me via email at **mohammadtabbaby@gmail.com** or by phone at **+216 99 145 392.**
 
 &nbsp;&nbsp;

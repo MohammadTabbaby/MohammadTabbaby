@@ -122,7 +122,7 @@ Currently seeking a junior position where I can contribute to impactful projects
 
 #### Testing & Tools
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef093af44d2c7a637bfaef3a8d2/svg/selenium-logo.svg" alt="selenium" width="55" height="55"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="55" height="55"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>
@@ -138,7 +138,7 @@ Currently seeking a junior position where I can contribute to impactful projects
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadtabbaby&show_icons=true&locale=en" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadtabbaby&theme=default" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="320px"/>
 </p>
 

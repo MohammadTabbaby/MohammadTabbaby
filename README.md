@@ -122,7 +122,7 @@ Currently seeking a junior position where I can contribute to impactful projects
 
 #### Testing & Tools
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="http://github.com/homarr-labs/dashboard-icons/blob/main/svg/selenium.svg" alt="selenium" width="55" height="55"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/homarr-labs/dashboard-icons/blob/36bcaab7ccf92729a0045ac489c8b4fe01052821/svg/selenium.svg" alt="selenium" width="55" height="55"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>

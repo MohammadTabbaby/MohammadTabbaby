@@ -116,13 +116,13 @@ Currently seeking a junior position where I can contribute to impactful projects
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="55" height="55"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="55" height="55"/> </a>
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/s/sonarqube.svg" alt="sonarqube" width="55" height="55"/> </a>
+<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/sonarqube.svg" alt="sonarqube" width="55" height="55"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="55" height="55"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="55"/> </a>
 
 #### Testing & Tools
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" alt="selenium" width="55" height="55"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="http://github.com/homarr-labs/dashboard-icons/blob/main/svg/selenium.svg" alt="selenium" width="55" height="55"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>
@@ -139,9 +139,5 @@ Currently seeking a junior position where I can contribute to impactful projects
 
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadtabbaby&theme=default" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadtabbaby&show_icons=true&locale=en&layout=compact" alt="mohammadtabbaby" width="320px"/>
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadtabbaby" alt="mohammadtabbaby"/></a> 
-</p>

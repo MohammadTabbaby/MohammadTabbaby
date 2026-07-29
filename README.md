@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammed Tabbabi 👋</h1>
+<h1 align="center">Hi there, I'm Mohamed Tababi 👋</h1>
 <h3 align="center">Junior DevOps & Full‑Stack Developer | Cloud & Automation Enthusiast</h3>
 
 <p align="left">

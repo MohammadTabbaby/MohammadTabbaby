@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Mohamed Tababi 👋</h1>
-<h3 align="center">Junior DevOps & Full‑Stack Developer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">DevOps Engineer & Full‑Stack Developer | Cloud & Automation</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadtabbaby&label=Profile%20views&color=0e55b6&style=flat" alt="mohammadtabbaby" />
 </p>
 
+- 🌐 **Portfolio:** [mohammadtabbaby.github.io](https://mohammadtabbaby.github.io/)
 - 📍 Based in Gafsa, Tunisia  
 - 📧 **Email:** mohammadtabbaby@gmail.com  
 - 📞 **Phone:** +216 99 145 392  
@@ -13,14 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a junior engineer with a solid foundation in the full software development lifecycle — from full‑stack development (Spring Boot, Django, Angular) to DevOps and cloud fundamentals (AWS, Kubernetes, CI/CD).  
-I’m passionate about automation, building reliable systems, and continuously learning new technologies.  
-Currently seeking a junior position where I can contribute to impactful projects and grow alongside a dynamic team.
+DevOps Engineer and full-stack developer with a Master's in Cloud Computing and DevOps, and hands-on experience designing and deploying cloud-native infrastructure. Skilled in container orchestration (Docker, Kubernetes, Helm), CI/CD pipelines (Jenkins, GitHub Actions, SonarQube), and infrastructure monitoring (Prometheus, Grafana) — with a full-stack foundation across Angular, Node.js, Spring Boot, and Django.
 
-- 🔭 I’m currently exploring advanced DevOps practices and working on personal projects to deepen my cloud‑native skills.  
-- 🌱 I’m also expanding my knowledge in infrastructure as code (Terraform) and monitoring stacks (Prometheus/Grafana).  
+- 🔭 Currently exploring advanced DevOps practices and personal projects to deepen my cloud-native skills.  
+- 🌱 Expanding into infrastructure as code (Terraform) and monitoring stacks (Prometheus/Grafana).  
 - 👨‍💻 All of my projects are available below — feel free to explore!  
-- 📝 I occasionally share insights on [dev.to](https://dev.to/mohammadtb) and [LinkedIn](https://www.linkedin.com/in/mohamed-tababi-6456b92a8).
+- 📝 I occasionally share insights on [dev.to](https://dev.to/mohammadtb) and [LinkedIn](https://linkedin.com/in/mohammadtabbaby).
 
 ---
 
@@ -30,51 +29,51 @@ Currently seeking a junior position where I can contribute to impactful projects
   <a href="https://dev.to/mohammadtb" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="mohammadtb" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/20983112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20983112" height="30" width="40" /></a>
   <a href="https://fb.com/muhammadtabbabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadtabbabi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mohamed-tababi-6456b92a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-tababi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohammadtabbaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadtabbaby" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### 💼 Experience
 
-**DevOps Engineer Intern** @ ISET Tozeur (02/2024 – 06/2024)  
-- Orchestrated a cluster of 8 microservices with Kubernetes, improving system scalability by 200%.  
-- Automated end‑to‑end CI/CD pipelines using Jenkins and SonarQube, reducing production bugs by 60%.  
-- Implemented real‑time monitoring and alerting with Prometheus & Grafana, detecting 90% of incidents in under 5 minutes.  
-- Secured REST APIs with Spring Security (JWT, Helmet), blocking over 100 malicious requests daily.
+**DevOps Technician & Full-Stack Developer** @ ISET Tozeur (02/2024 – 06/2024)  
+- Deployed and administered an 8+ microservice Kubernetes cluster, improving system availability, fault tolerance, and workload distribution.  
+- Built end-to-end CI/CD pipelines with Jenkins and SonarQube, accelerating deployments and reducing production vulnerabilities.  
+- Configured a real-time monitoring stack with Prometheus and Grafana for proactive incident detection.  
+- Secured REST APIs with JWT authentication and rate limiting, blocking 100+ malicious requests per day.  
+- Developed Angular dashboards for administrative operations, improving data visibility for staff.
 
-**Full‑Stack Developer Intern** @ ISET Tozeur (02/2024 – 04/2024)  
-- Developed dynamic internal dashboards with Angular, enhancing data visibility and readability.  
-- Designed and integrated scalable microservices with Spring Boot to streamline API communication.
+**Full-Stack Developer Intern** @ Tahar Sfar University Hospital (02/2022 – 06/2022)  
+- Designed and deployed a complaints management platform in Laravel, processing 20+ submissions daily.  
+- Built a real-time medical equipment and inventory tracking system, reducing downtime and administrative workload.  
+- Integrated tracking for equipment assignments, spare parts, and deliveries to optimize preventive maintenance.
 
 **Full‑Stack Developer Intern** @ LeaderPos (08/2021 – 09/2021)  
-- Built e‑commerce backend with Django & MongoDB, optimising session, product, and order management.  
-- Created a responsive frontend using HTML, CSS, and Bootstrap for intuitive administration.  
-- Implemented a dynamic shopping cart and real‑time stock updates.  
-- Integrated a simulated payment gateway to secure transactions.
+- Built an e-commerce backend with Django & MongoDB, managing products, sessions, and orders.  
+- Delivered a responsive storefront with HTML, CSS, and Bootstrap, with a dynamic cart and real-time stock updates.  
+- Integrated a simulated payment gateway with basic fraud detection.
 
 ---
 
 ### 📌 Projects
 
-**Medical Equipment Manager** (React / Laravel) – 02/2022 to 06/2022  
-- Full‑stack web application for hospital inventory management.  
-- Features: equipment tracking, assignment history, spare parts management, and delivery status.  
-- Improved maintenance planning, reducing equipment downtime by 40%.
+**Medical Equipment Manager** (Laravel) – 02/2022 to 06/2022  
+- Full-stack web application for hospital inventory management.  
+- Features: equipment tracking, assignment history, spare parts management, and delivery status tracking.  
+- Optimized preventive maintenance planning and reduced administrative workload.
 
 **E‑Commerce Platform** (Django / MongoDB) – 08/2021 to 09/2021  
-- Complete product catalogue with real‑time cart and stock management.  
-- Integrated simulated payment gateway with basic fraud detection.  
-- Simplified checkout flow, increasing successful transactions by 15%.
+- Complete product catalogue with real-time cart and stock management.  
+- Integrated simulated payment gateway with basic fraud detection.
 
 ---
 
 ### 🎓 Education
 
-- **Master Professionnel in DevOps & Cloud Computing**  
+- **National Professional Master's — Cloud Computing & DevOps**  
   ISET Tozeur, Tunisia — 2022–2024  
 
-- **Licence in Web Development**  
+- **National Bachelor's — Web Development & Multimedia**  
   ISET Mahdia, Tunisia — 2019–2022  
 
 ---
@@ -116,13 +115,13 @@ Currently seeking a junior position where I can contribute to impactful projects
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/> </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="55" height="55"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="55" height="55"/> </a>
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/sonarqube.svg" alt="sonarqube" width="55" height="55"/> </a>
+<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="55" height="55"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="55" height="55"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="55"/> </a>
 
 #### Testing & Tools
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/homarr-labs/dashboard-icons/blob/36bcaab7ccf92729a0045ac489c8b4fe01052821/svg/selenium.svg" alt="selenium" width="55" height="55"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="55" height="55"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>
@@ -140,4 +139,3 @@ Currently seeking a junior position where I can contribute to impactful projects
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadtabbaby&theme=default" alt="mohammadtabbaby" height="174"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
